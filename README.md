@@ -1,3 +1,6 @@
+    "Today's accomplishments were yesterday's impossibilities."
+    Robert H. Schuller
+
 - 👋 Hi, I’m @ploy-destroyer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
