@@ -1,13 +1,5 @@
     "Today's accomplishments were yesterday's impossibilities."
     Robert H. Schuller
 
-- 👋 Hi, I’m @ploy-destroyer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ploy-destroyer/ploy-destroyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I’m ploy from Thailand
+- 👀 I’m interested in programming and also studying on CS
